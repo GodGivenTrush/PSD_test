@@ -1,1 +1,0 @@
-It's Test 'How git works with PSD files'
